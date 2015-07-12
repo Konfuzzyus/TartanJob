@@ -1,0 +1,30 @@
+% Original booklet format
+\documentclass[11pt,twoside,a5paper]{report}
+\paperwidth115mm
+\paperheight170mm
+\textwidth100mm
+\textheight150mm
+
+% Manuskriptformat
+%\documentclass[a5paper,12pt]{book}
+
+\usepackage[english]{babel}
+\usepackage[latin1]{inputenc}
+\usepackage[pdftex]{geometry}
+
+\title{The Tartan Job}
+\author{Agent Fuzzy\\Agent Bubble}
+\date{\today}
+
+\pagestyle{plain}
+\pagenumbering{arabic}
+
+\begin{document}
+\maketitle
+\tableofcontents
+
+\include{kap.preface}
+\include{kap.journal}
+\include{kap.epilogue}
+
+\end{document}
