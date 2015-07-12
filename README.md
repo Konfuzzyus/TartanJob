@@ -3,8 +3,6 @@ The Tartan Job
 
 These are the notes of a covert operation deep in Scottish territory.
 
-\bigskip
-
 If found, return to the address described below, citizen.
 
 Not returning it to its rightful owner is considered to be treason.
